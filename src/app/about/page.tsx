@@ -47,12 +47,13 @@ export default function AboutPage() {
   ];
 
   const productLogos = [
-    "image 3.png", "image 4.png", "image 6.png", "image 7.png", "image 9.png", "image 10.png",
-    "image 11.png", "image 12.png", "image 13.png", "image 14.png", "image 15.png",
-    "image 16.png", "image 17.png", "image 18.png", "image 19.png", "image 20.png",
-    "image 21.png", "image 22.png", "image 23.png", "image 24.png", "image 25.png",
-    "image 26.png", "image 27.png", "image 28.png", "image 29.png", "image 30.png",
-    "image 31.png"
+    "kumwell.png", "pittas.jpg", "CITEL LOGO.png", "OBSTA LOGO.png",
+    "PALAZZOLI GROUP LOGO.png", "TIGO LOGO.png", "graig&derricott.png", "NVENT CADDY LOGO.svg",
+    "NVENT ERICO LOGO.svg", "WALLMAX LOGO.png", "siechem.png", "TUBIFOR LOGO.png",
+    "dietzel.png", "BAHRA CABLES.svg", "TEKAB CABLES.png", "NEELKANTH CABLE LOGO.png",
+    "PSI LOGO.png", "EMI LOGO.png", "LITETECH LOGO.webp", "HAUFF TECHNIK LOGO.png",
+    "CCG Logo.png", "cabex.png", "obo.png", "ROSE LOGO.png",
+    "SIRENA LOGO.png", "FRATER1-LOGO.webp", "COSMOPLAST LOGO.avif"
   ];
 
   const certificates = [
